@@ -1,5 +1,5 @@
 ---
-fullname: Safiatou Sanogo
+fullname: Safiatou Konate
 role: Coach Product manager
 domaine: Coaching
 missions:
